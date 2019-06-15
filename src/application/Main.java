@@ -32,7 +32,7 @@ public class Main extends Application {
 			Rectangle square2_1 = new Rectangle(19, 255, 46, 46);
 			square2_1.setFill(Color.BLACK);
 
-			Rectangle square3 = new Rectangle(241, 4, 75, 75); //upper right
+			Rectangle square3 = new Rectangle(242, 4, 75, 75); //upper right
 			square3.setFill(Color.WHITE);
 			square3.setStroke(Color.BLACK);
 			square3.setStrokeWidth(8);
